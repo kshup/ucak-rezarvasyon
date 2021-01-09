@@ -1,5 +1,5 @@
 # ucak-rezarvasyon
-
+Video Linki: https://www.youtube.com/watch?v=9hLujv5E-qM
 Giriş Ekranı
 ![1](https://user-images.githubusercontent.com/49290969/104104310-4cbf5600-52b8-11eb-843a-d4e633b2b1ab.PNG)
 Admin Login Sayfası
