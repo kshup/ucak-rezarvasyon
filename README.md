@@ -7,9 +7,9 @@ Admin Login Sayfası
 Admin Paneli
 ![3](https://user-images.githubusercontent.com/49290969/104104323-5d6fcc00-52b8-11eb-8978-fefbe73618a5.PNG)
 Müşteri Güncelleme  / Silme 
-![4](https://user-images.githubusercontent.com/49290969/104104325-5ea0f900-52b8-11eb-8ecb-981cc9788abc.PNG)
-Müşteri Ekleme
-![5](https://user-images.githubusercontent.com/49290969/104104327-5fd22600-52b8-11eb-86e0-5a6a604c5aa5.PNG)
+![4](https://user-images.githubusercontent.com/49290969/104104325-5ea0f900-52b8-11eb-8ecb-981cc9788abc.PNG) <br>
+Müşteri Ekleme <br>
+![5](https://user-images.githubusercontent.com/49290969/104104327-5fd22600-52b8-11eb-86e0-5a6a604c5aa5.PNG) <br>
 Bilet Rezarvasyon
 ![6](https://user-images.githubusercontent.com/49290969/104104329-619be980-52b8-11eb-8cea-58c5e24af7ce.PNG)
 İşlem Tamamlama ekranı (Bilet)
