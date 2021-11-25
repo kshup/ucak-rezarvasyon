@@ -1,4 +1,4 @@
-# BU REPOTU CIDDIYE ALMAYINIZ TSK
+# BU REPOYU CIDDIYE ALMAYINIZ TSK
 # ucak-rezarvasyon
 Video Linki: https://www.youtube.com/watch?v=9hLujv5E-qM <br>
 Giriş Ekranı
